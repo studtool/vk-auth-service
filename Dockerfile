@@ -1,5 +1,5 @@
 FROM golang:1.12 as base
-WORKDIR /tmp/vk-oauth2-service
+WORKDIR /tmp/vk-auth-service
 COPY . .
 RUN go build -mod vendor -o /tmp/service .
 

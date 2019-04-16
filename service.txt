@@ -1,1 +1,0 @@
-studtool/vk-oauth2-service

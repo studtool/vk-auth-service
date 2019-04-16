@@ -1,0 +1,20 @@
+# github.com/golang/protobuf v1.3.1
+github.com/golang/protobuf/proto
+# github.com/studtool/common v0.0.0-20190416124930-3acbe565f88f
+github.com/studtool/common/config
+github.com/studtool/common/consts
+# golang.org/x/net v0.0.0-20190415214537-1da14a5a36f2
+golang.org/x/net/context/ctxhttp
+golang.org/x/net/context
+# golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a
+golang.org/x/oauth2
+golang.org/x/oauth2/vk
+golang.org/x/oauth2/internal
+# google.golang.org/appengine v1.5.0
+google.golang.org/appengine/urlfetch
+google.golang.org/appengine/internal
+google.golang.org/appengine/internal/urlfetch
+google.golang.org/appengine/internal/base
+google.golang.org/appengine/internal/datastore
+google.golang.org/appengine/internal/log
+google.golang.org/appengine/internal/remote_api

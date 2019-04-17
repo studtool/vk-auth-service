@@ -1,8 +1,27 @@
 # github.com/golang/protobuf v1.3.1
 github.com/golang/protobuf/proto
-# github.com/studtool/common v0.0.0-20190416124930-3acbe565f88f
-github.com/studtool/common/config
+# github.com/gorilla/mux v1.7.1
+github.com/gorilla/mux
+# github.com/konsorten/go-windows-terminal-sequences v1.0.2
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/mailru/easyjson v0.0.0-20190403194419-1ea4449da983
+github.com/mailru/easyjson
+github.com/mailru/easyjson/jlexer
+github.com/mailru/easyjson/jwriter
+github.com/mailru/easyjson/buffer
+# github.com/sirupsen/logrus v1.4.1
+github.com/sirupsen/logrus
+# github.com/studtool/common v0.0.0-20190417211309-9f0086060911
+github.com/studtool/common/utils
 github.com/studtool/common/consts
+github.com/studtool/common/rest
+github.com/studtool/common/logs
+github.com/studtool/common/config
+github.com/studtool/common/errs
+# go.uber.org/dig v1.7.1-0.20190327003609-4cc9f8898fe3
+go.uber.org/dig
+go.uber.org/dig/internal/digreflect
+go.uber.org/dig/internal/dot
 # golang.org/x/net v0.0.0-20190415214537-1da14a5a36f2
 golang.org/x/net/context/ctxhttp
 golang.org/x/net/context
@@ -10,6 +29,8 @@ golang.org/x/net/context
 golang.org/x/oauth2
 golang.org/x/oauth2/vk
 golang.org/x/oauth2/internal
+# golang.org/x/sys v0.0.0-20190416152802-12500544f89f
+golang.org/x/sys/unix
 # google.golang.org/appengine v1.5.0
 google.golang.org/appengine/urlfetch
 google.golang.org/appengine/internal

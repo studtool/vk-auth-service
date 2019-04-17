@@ -1,4 +1,4 @@
-FROM golang:1.12 as base
+FROM golang:1.12-alpine3.9 as base
 WORKDIR /tmp/vk-auth-service
 COPY . .
 RUN go build -mod vendor -o /tmp/service .
